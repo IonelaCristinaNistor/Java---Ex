@@ -1,0 +1,51 @@
+[
+  {
+    "nume": "birou",
+    "placi": [
+      {
+        "descriere": "blat",
+        "latime": 800,
+        "orientare": "LATIME",
+        "canturi": [true, true, true, true],
+        "nr_bucati": 1
+      },
+      {
+        "descriere": "sertar",
+        "lungime": 300,
+        "latime": 400,
+        "orientare": "LATIME",
+        "canturi": [true, true, true, true],
+        "nr_bucati": 2
+      },
+      {
+        "descriere": "picioare",
+        "lungime": 70,
+        "latime": 70,
+        "orientare": "ORICARE",
+        "canturi": [true, true, true, true],
+        "nr_bucati": 4
+      }
+    ]
+  },
+  {
+    "nume": "dulap",
+    "placi": [
+      {
+        "descriere": "corp",
+        "lungime": 2000,
+        "latime": 600,
+        "orientare": "LATIME",
+        "canturi": [true, true, true, true],
+        "nr_bucati": 2
+      },
+      {
+        "descriere": "usa",
+        "lungime": 1800,
+        "latime": 400,
+        "orientare": "LATIME",
+        "canturi": [true, true, false, false],
+        "nr_bucati": 2
+      }
+    ]
+  }
+]
